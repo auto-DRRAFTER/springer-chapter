@@ -27,10 +27,10 @@ The following are four python modules that will be used throughout the auto-DRRA
 
 Input and output files of each auto-DRRAFTER round are available and organized in the following four subdirectories:
 
-`FNG_riboswitch_1/`:  auto-DRRAFTER run for ***F. nucleatum* glycine riboswitch** executed on **Sherlock** computing cluster.
+[`FNG_riboswitch_1/`](https://github.com/auto-DRRAFTER/springer-chapter/tree/main/FNG_riboswitch_1):  auto-DRRAFTER run for ***F. nucleatum* glycine riboswitch** executed on **Sherlock** computing cluster.
 
-`FNG_riboswitch_2/`: auto-DRRAFTER run for ***F. nucleatum* glycine riboswitch** executed on **Duyu** computing cluster.
+[`FNG_riboswitch_2/`](https://github.com/auto-DRRAFTER/springer-chapter/tree/main/FNG_riboswitch_2): auto-DRRAFTER run for ***F. nucleatum* glycine riboswitch** executed on **Duyu** computing cluster.
 
-`SAM-IV_riboswitch_1/` :  auto-DRRAFTER run for **SAM-IV Riboswitch** executed on **Sherlock** computing cluster.
+[`SAM-IV_riboswitch_1/`](https://github.com/auto-DRRAFTER/springer-chapter/tree/main/SAM-IV_riboswitch_1) :  auto-DRRAFTER run for **SAM-IV Riboswitch** executed on **Sherlock** computing cluster.
 
-`SAM-IV_riboswitch_2`/ : auto-DRRAFTER run for **SAM-IV Riboswitch** executed on **Duyu** computing cluster.
+[`SAM-IV_riboswitch_2`](https://github.com/auto-DRRAFTER/springer-chapter/tree/main/SAM-IV_riboswitch_2)/ : auto-DRRAFTER run for **SAM-IV Riboswitch** executed on **Duyu** computing cluster.
