@@ -27,6 +27,7 @@ python $ROSETTA/main/source/src/apps/public/DRRAFTER/auto-DRRAFTER_setup.py -map
 ### Build initial models with different end nodes
 
 #### R1 (Round 1)
+
 ```shell
 # Step 4.2, first iteration from the auto-DRRAFTER chapter.
 python $ROSETTA/main/source/src/apps/public/DRRAFTER/submit_jobs.py -out_pref SAM -curr_round R1 -njobs 150 -template_submission_script input_files/job_submission_template.sh -queue_command sbatch```
@@ -42,6 +43,7 @@ python $ROSETTA/main/source/src/apps/public/DRRAFTER/auto-DRRAFTER_setup_next_ro
 ### Iterative refinement of RNA models
 
 #### R2 (Round 2)
+
 ```shell
 # Step 4.2, second iteration from the auto-DRRAFTER chapter.
 python $ROSETTA/main/source/src/apps/public/DRRAFTER/submit_jobs.py -out_pref SAM -curr_round R2 -njobs 150 -template_submission_script input_files/job_submission_template.sh -queue_command sbatch
