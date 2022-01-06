@@ -5,6 +5,7 @@
 Methods detailing the auto-DRRAFTER run for **SAM-IV Riboswitch** executed on **Duyu** computing cluster.
 
 ### Selecting end nodes for probe helix placement
+
 ```shell
 # Step 2.1 from the auto-DRRAFTER chapter.
 python $ROSETTA/main/source/src/apps/public/DRRAFTER/auto-DRRAFTER_setup.py -map_thr 20 -full_dens_map input_files/SAM.mrc -full_dens_map_reso 10.0 -fasta input_files/SAM.fasta -secstruct input_files/SAM.txt -out_pref SAM -rosetta_directory $ROSETTA/main/source/bin/ -nstruct_per_job 200 -cycles 30000 -fit_only_one_helix -rosetta_extension .static.linuxgccrelease -just_low_pass`
@@ -26,6 +27,7 @@ python $ROSETTA/main/source/src/apps/public/DRRAFTER/auto-DRRAFTER_setup.py -map
 
 ### Build initial models with different end nodes
 
+
 #### R1 (Round 1)
 
 ```shell
@@ -41,6 +43,7 @@ python $ROSETTA/main/source/src/apps/public/DRRAFTER/auto-DRRAFTER_setup_next_ro
 >	Density threshold: 0.653
 
 ### Iterative refinement of RNA models
+
 
 #### R2 (Round 2)
 
