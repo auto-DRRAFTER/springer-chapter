@@ -1,0 +1,23 @@
+Auto helix setup run at 09:05PM on January 03, 2022
+MAP_THR: 0.056
+DENS_MAP: FNG_riboswitch_lp20.mrc
+FULL_DENS_MAP: input_files/FNG_riboswitch.mrc
+FULL_DENS_MAP_RESO: 10.000
+SEQ: ggaaucggaugaagauaugaggagagauuucauuuuaaugaaacaccgaagaaguaaaucuuucagguaaaaaggacucauauuggacgaaccucuggagagcuuaucuaagagauaacaccgaaggagcaaagcuaauuuuagccuaaacucucagguaaaaggacggag
+SS: ....(((......((((((((....(.((((((....)))))))(((...((((.....))).).)))........))))))))...)))..(((((....(.(((((.....))))))(((...((((....((((....))).)....))).).))).......)))))
+NRES: 171
+NSTRUCT_PER_JOB: 200
+CYCLES: 30000
+NINIT_POINTS: 28
+OUT_PREF: FNG_riboswitch
+DISTANCE_CONNECT: 20.000
+SHIFT_CENTER: False
+PUSH_OUT_FURTHER: False
+NOT_BLIND: False
+REPEATS: 10
+MOVE_IN: False
+USE_ONLY_ONE_END_NODE: True
+END_NODE_ANGLE_CUTOFF: 0.870
+USE_END_NODE: -1
+EXTRA_FLAGS: 
+NATIVE: 
