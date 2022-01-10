@@ -6,6 +6,10 @@ This repository is intended for use with the chapter **Auto-DRRAFTER: Automated 
 
 In this example, we will use the  *F. nucleatum* glycine riboswitch (PDB 6wll) and apo SAM-IV Riboswitch (PDB 6ues) that were previously solved by [Kappel et al. 2020](https://www.nature.com/articles/s41592-020-0878-9).
 
+#### Contact Information:
+
+Correspondence and request for further information may be addressed to Phillip Pham (philpham90@gmail.com) or Haiyun Ma (haiyun.ma@foxmail.com).
+
 ## Recommended Computing Requirement
 
 Typical use of auto-DRRAFTER requires a high-performance computing cluster. While runs may be executed interactively, most auto-DRRAFTER runs benefit from using a job scheduler such as SLURM or Torque.
@@ -33,4 +37,4 @@ Input and output files of each auto-DRRAFTER round are available and organized i
 
 [`SAM-IV_riboswitch_1/`](https://github.com/auto-DRRAFTER/springer-chapter/tree/main/SAM-IV_riboswitch_1) :  auto-DRRAFTER run for **SAM-IV Riboswitch** executed on **Sherlock** computing cluster.
 
-[`SAM-IV_riboswitch_2`](https://github.com/auto-DRRAFTER/springer-chapter/tree/main/SAM-IV_riboswitch_2)/ : auto-DRRAFTER run for **SAM-IV Riboswitch** executed on **Duyu** computing cluster.
+[`SAM-IV_riboswitch_2/`](https://github.com/auto-DRRAFTER/springer-chapter/tree/main/SAM-IV_riboswitch_2) : auto-DRRAFTER run for **SAM-IV Riboswitch** executed on **Duyu** computing cluster.
