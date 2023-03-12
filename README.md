@@ -8,7 +8,7 @@ In this example, we will use the  *F. nucleatum* glycine riboswitch (PDB 6wll) a
 
 #### Contact Information:
 
-Correspondence and request for further information may be addressed to Phillip Pham (philpham90@gmail.com) or Haiyun Ma (haiyun.ma@foxmail.com).
+Correspondence and request for further information may be addressed to Phillip Pham (philpham@stanford.edu) or Haiyun Ma (haiyun.ma@foxmail.com).
 
 ## Recommended Computing Requirement
 
